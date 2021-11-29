@@ -1,0 +1,3 @@
+Python libraries used:
+yfinance # To match ticker symbols
+vaderSentiment # To generate a composite sentimental score from text
