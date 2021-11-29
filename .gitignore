@@ -1,6 +1,9 @@
 # .DS_store
 .DS_Store
 
+# Raw Data
+/data/raw/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
