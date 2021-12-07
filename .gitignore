@@ -3,6 +3,7 @@
 
 # Raw Data
 **/data/raw/
+**.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
