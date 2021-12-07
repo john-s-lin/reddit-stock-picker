@@ -15,25 +15,6 @@ Our solution to reducing the risk that is involved with the assistance of machin
 - `cd <destination folder>/src`
 - `python <filename>`
 
-#### Intellij?
-- `import remote git repo`
-- `open up bash terminal`
-- `cd src`
-- `python <filename>`
-
-### `Jupyter Notebook Files`
-#### `locally`
-- `install jupyter-notebook`
-  - *varries based on operating system*
-- `run it targeting the src directory`
-  - *On emacs use `M-x ein:run` to have it start and manage your session with the `emacs-ipython-notebook` package installed
-  - *follow your ide/editor's instructions based on which you use*
-
-#### `browser`
-- `go to `[jupyter](https://www.jupyter.org)
-- `after logging in upload the file to you notebook`
-- `run it`
-
 
 ## Crawling
 Our data that was scraped exceeded 800mbs while zipped so it has been excluded from the repository. But they may be generated with running the Scrape.ipynb notebook. Scraping should be noted to take a very long time if date range is not adjusted, 4+ hours.
